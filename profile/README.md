@@ -1,6 +1,6 @@
 # Hello World!
-This is the official github organisation of Studio Concertos.
+This is the official github organisation page of Studio Concertos.
 
 ## Ongoing Projects:
-- Arcadia
+- DarwinMMO
 - [Quartz](https://github.com/StudioConcertos/Quartz)
